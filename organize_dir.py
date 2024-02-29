@@ -1,3 +1,4 @@
 import os
 
-pass
+def goal(dir, mov, mut):
+    pass
